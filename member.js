@@ -1,0 +1,32 @@
+function skillsMember() {
+  return [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C++",
+    "Ruby",
+    "Go",
+    "Swift",
+    "Kotlin",
+    "HTML",
+    "CSS",
+    "SQL",
+    "NoSQL",
+    "React",
+    "Angular",
+    "Vue.js",
+    "Node.js",
+    "Django",
+    "Flask",
+    "Spring Boot",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Machine Learning",
+    "Data Analysis",
+    "DevOps",
+    "Agile Methodologies"
+  ];
+}
